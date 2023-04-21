@@ -3,8 +3,6 @@
 #include <algorithm>
 #include <memory>
 
-// TODO
-// Extendible
 
 template <typename CircularBuffer, bool isConst>
 class BufferIterator {
